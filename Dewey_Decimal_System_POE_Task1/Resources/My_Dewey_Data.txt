@@ -1,0 +1,111 @@
+000 Computer Science, Information, & General Works    
+001 Knowledge
+002 The book 
+003 Systems 
+004 Data processing Computer science 
+005 Computer programming, programs, data 
+006 Special computer methods 
+007 Bibliography
+008 Bibliographies 
+009 Bibliographies of individuals 
+
+100 Philosophy & Psychology    
+101 Theory of philosophy 
+102 Miscellany of philosophy
+103 Dictionaries of philosophy 
+104 Not assigned or no longer used 
+105 Serial publications of philosophy 
+106 Organizations of philosophy 
+107 Education, research in philosophy 
+108 Kinds of persons in philosophy 
+109 Historical treatments of philosophy
+
+200 Religion    
+201 Philosophy of Christianity
+202 Miscellany of Christianity
+203 Dictionaries of Christianity
+204 Special topics 
+205 Serial publications of Christianity
+206 Organizations of Christianity
+207 Education, research in Christianity 
+208 Kinds of persons in Christianity
+209 History & geography of Christianity 
+
+300 Social Sciences    
+301 Sociology & anthropology
+302 Social interaction
+303 Social processes
+304 Factors affecting social behaviour 
+305 Social groups
+306 Culture & institutions
+307 Communities
+308 Not assigned or no longer used
+309 Not assigned or no longer used 
+
+400 Language
+401 Philosophy & theory 
+402 Miscellany 
+403 Dictionaries & encyclopaedias 
+404 Special topics 
+405 Serial publications 
+406 Organizations & management 
+407 Education, research, related topics 
+408 With respect to kinds of persons 
+409 Geographical & persons treatment 
+
+500 Science
+501 Philosophy & theory 
+502 Miscellany 
+503 Dictionaries & encyclopaedias 
+504 Not assigned or no longer used 
+505 Serial publications 
+506 Organizations & management 
+507 Education, research, related topics
+508 Natural history 
+509 Historical, areas, persons treatment 
+
+600 Technology
+601 Philosophy & theory 
+602 Miscellany
+603 Dictionaries & encyclopaedias
+604 Special topics 
+605 Serial publications 
+606 Organizations 
+607 Education, research, related topics 
+608 Invention & patents 
+609 Historical, areas, persons treatment
+
+700 Arts & Recreation
+701 Philosophy & theory
+702 Miscellany 
+703 Dictionaries & encyclopaedias 
+704 Special topics 
+705 Serial publications 
+706 Organizations & management 
+707 Education, research, related topics 
+708 Galleries, museums, private collections
+709 Historical, areas, persons treatment 
+
+800 Literature
+801 Philosophy & theory 
+802 Miscellany 
+803 Dictionaries & encyclopaedias 
+804 Not assigned or no longer used 
+805 Serial publications 
+806 Organizations
+807 Education, research, related topics
+808 Rhetoric & collections of literature 
+809 Literary history & criticism 
+
+900 History & Geography
+901 Philosophy & theory 
+902 Miscellany 
+903 Dictionaries & encyclopaedias
+904 Collected accounts of events 
+905 Serial publications
+906 Organizations & management 
+907 Education, research, related topics
+908 With respect to kinds of persons
+909 World history 
+
+
